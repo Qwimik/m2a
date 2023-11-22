@@ -7,9 +7,9 @@
         <referenceBlock name="page.main.title" template="Magento_Wishlist::custom-title.phtml" />
 
         <referenceBlock name="sidebar.main.account_nav" remove="true"/>
-        <referenceBlock name="customer.wishlist.item.review" remove="true" />
-        <referenceBlock name="customer.wishlist.item.comment" remove="true" />
-        <referenceBlock name="customer.wishlist.item.edit" remove="true" />
+        <referenceBlock name="customer.wishlist.item.review" remove="true"/>
+        <referenceBlock name="customer.wishlist.item.comment" remove="true"/>
+        <referenceBlock name="customer.wishlist.item.edit" remove="true"/>
         <referenceBlock name="customer.wishlist.button.update" remove="true"/>
         <referenceContainer name="footer-container" remove="true"/>
         <referenceContainer name="before.body.end" remove="true"/>
